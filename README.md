@@ -23,7 +23,7 @@ A lightweight, modular **Earley Parser** and **Regex-based Lexer** implemented i
 Simply clone the repository and ensure both `Lexer.py` and `Parser.py` are in your project directory.
 
 ```bash
-git clone https://github.com/yourusername/python-earley-parser.git
+git clone[[ https://github.com/yourusername/python-earley-parser](https://github.com/neurafusionai/lexer_and_parer_python.git)] 
 ```
 
 ---
@@ -104,5 +104,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Keywords for SEO:**
+
 *Python Earley Parser, Context-Free Grammar Python, Lexical Analysis, Tokenizer Python, CFG Parser, Syntax Tree Generator, Earley Algorithm Implementation, Python Compiler Tools.*
